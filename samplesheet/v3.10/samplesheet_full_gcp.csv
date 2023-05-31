@@ -1,9 +1,8 @@
 sample,fastq_1,fastq_2,strandedness
-GM12878_REP1,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX1603629_T1_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX1603629_T1_2.fastq.gz,reverse
-GM12878_REP2,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX1603630_T1_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX1603630_T1_2.fastq.gz,reverse
-K562_REP1,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX1603392_T1_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX1603392_T1_2.fastq.gz,reverse
-K562_REP2,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX1603393_T1_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX1603393_T1_2.fastq.gz,reverse
-MCF7_REP1,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX2370490_T1_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX2370490_T1_2.fastq.gz,reverse
-MCF7_REP2,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX2370491_T1_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX2370491_T1_2.fastq.gz,reverse
-H1_REP1,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX2370468_T1_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX2370468_T1_2.fastq.gz,reverse
-H1_REP2,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX2370469_T1_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/SRX2370469_T1_2.fastq.gz,reverse
+WT_REP1,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357070_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357070_2.fastq.gz,auto
+WT_REP1,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357071_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357071_2.fastq.gz,auto
+WT_REP2,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357072_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357072_2.fastq.gz,reverse
+RAP1_UNINDUCED_REP1,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357073_1.fastq.gz,,reverse
+RAP1_UNINDUCED_REP2,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357074_1.fastq.gz,,reverse
+RAP1_UNINDUCED_REP2,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357075_1.fastq.gz,,reverse
+RAP1_IAA_30M_REP1,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357076_1.fastq.gz,gs://nf-core-gcpmegatests/test-data/rnaseq/GSE110004/SRR6357076_2.fastq.gz,reverse
